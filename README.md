@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samcoded
+- 👋 Hi, I’m Samuel Anozie
 - 👀 I’m interested in Fullstack Development
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me samuelanozie.me
