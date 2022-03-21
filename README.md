@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Anozie
 - 👀 I’m interested in Fullstack Development
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me samuelanozie.me
+- 📫 How to reach me https://samuelanozie.me
 
 <!---
 samcoded/samcoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
