@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Anozie
 - 👀 I’m interested in Backend Development (PHP - Laravel or Codeigniter | Javascript - NodeJs, ExpressJS | Python - Django | DB - MYSQL, POSTGRES SQL, MONGODB | Cloud - AWS)
-- 💞️ I’m looking to full time employment and also to collaborate on any project
+- 💞️ I’m looking for full time employment and also to collaborate on any project
 - 📫 How to reach me https://samuelanozie.me
 - 📧 samuelanozie10@yahoo.com
 
